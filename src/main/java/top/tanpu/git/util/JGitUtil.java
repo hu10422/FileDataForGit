@@ -1,7 +1,5 @@
 package top.tanpu.git.util;
 
-import ch.qos.logback.classic.gaffer.PropertyUtil;
-import com.sun.deploy.util.StringUtils;
 import org.apache.commons.compress.utils.Charsets;
 import org.eclipse.jgit.api.Git;
 import org.eclipse.jgit.api.errors.GitAPIException;
